@@ -8,7 +8,7 @@
 | Codename    | repo link |
 | -------- | ------- |
 | Node (Self hosting backend and frontend)  | https://github.com/Shaytris/node    |
-| Delta (Client) | https://github.com/Shaytris/Shaytris     |
+| Nexus (Future client) | https://github.com/Shaytris/Shaytris     |
 | Wizard (API)    | https://github.com/Shaytris/API    |
 | Aura (Mobile mods to the client)    | https://github.com/Shaytris/Touch    |
 | Taiko (Website)    | https://github.com/Shaytris/shaytris.github.io    |
