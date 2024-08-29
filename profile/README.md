@@ -3,12 +3,12 @@
 
 
 # Repositories
-*The game has it's own separate repos for all it's code to make it easy to navigate.
 
 | Codename    | repo link |
 | -------- | ------- |
-| Node (Self hosting backend and frontend)  | https://github.com/Shaytris/node    |
-| Nexus (Future client) | https://github.com/Shaytris/Shaytris     |
-| Bamboo (API)    | https://github.com/Shaytris/API    |
-| Taiko (Website)    | https://github.com/Shaytris/shaytris.lol    |
+| Node.st  | https://github.com/Shaytris/node    |
+| Main app | https://github.com/Shaytris/Shaytris     |
+|  Obsidian   | https://github.com/Shaytris/Obsidian    |
+| Taiko    | https://github.com/Shaytris/shaytris.lol    |
+| Feedback| https://github.com/Shaytris/feedback    |
 
